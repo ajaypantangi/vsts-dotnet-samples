@@ -168,7 +168,9 @@
     <Compile Include="WorkItemTracking\RecycleBinSample.cs" />
     <Compile Include="WorkItemTracking\ReportingSample.cs" />
     <Compile Include="WorkItemTracking\WorkItemsSample.cs" />
-    <Compile Include="Work\*.cs" />
+    <Compile Include="Work\BoardParentsSample.cs" />
+    <Compile Include="Work\BoardUserSettingsSample.cs" />
+    <Compile Include="Work\TeamSettingsSample.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
